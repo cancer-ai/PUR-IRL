@@ -1,3 +1,13 @@
+#Quick Notes
+For posterity only - for the love of what is holy please do not use this fork.
+
+This is the repository corresponding to the original paper, written at a point in time when there were no common github repos available for repurposing for IRL. A heroic effort by John Kalantari led to this codebase in Java that implements a tabular approach to IRL, including writing all the needed linear algebra functions and solvers. This is therefore out of date for two reasons:
+
+1. I don't want to maintain a Java codebase
+2. We are moving onto the model-free paradigm and will use neural network functional approximators for state and actions
+
+------
+
 # PUR-IRL
 Pop-Up Restaurant for Inverse Reinforcement Learning (PUR-IRL)
 
